@@ -8,6 +8,9 @@ This is a home improvement chatbot application built with React for the frontend
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Approach](#approach)
+- [Challenges Faced](#challenges-faced)
+- [Testing](testing)
 
 ## Features
 
